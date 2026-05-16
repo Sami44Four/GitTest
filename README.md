@@ -34,3 +34,4 @@ mvn dependency-check:check
 Every push to GitHub triggers the `.github/workflows/ci.yml`, which runs all the above automatically.
 
 - Adding comment to the bottom of README file
+- Adding second comment
